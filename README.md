@@ -1,4 +1,4 @@
-readme_text = """# Untargeted LC-MS Metabolomics Analysis of Inflammatory Bowel Disease (IBD)
+Untargeted LC-MS Metabolomics Analysis of Inflammatory Bowel Disease (IBD)
 
 ## Overview
 End-to-end Python bioinformatics pipeline for untargeted negative-mode (`[M-H]-`) LC-MS metabolomics profiling comparing **Control (`CD`)** vs. **Disease (`HC`)** cohorts alongside **Pooled Quality Control (`QC`)** samples (`n = 10` `.mzML` runs).
@@ -30,3 +30,4 @@ LCMS_Untargeted_Metabolomics_IBD/
         ├── asari_khipu_empirical_compounds.tsv
         ├── normalized_log2_feature_matrix.csv
         └── ibd_annotated_metabolites.csv
+
